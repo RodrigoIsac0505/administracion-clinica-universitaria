@@ -1,0 +1,20 @@
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaMetodos\bin\Debug\CapaMetodos.dll
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaMetodos\bin\Debug\CapaMetodos.pdb
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaMetodos\bin\Debug\CapaMetodos.xml
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.vbproj.AssemblyReference.cache
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.Resources.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.vbproj.GenerateResource.cache
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.vbproj.CoreCompileInputs.cache
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.dll
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.xml
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.pdb
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaMetodos\bin\Debug\CapaMetodos.dll
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaMetodos\bin\Debug\CapaMetodos.pdb
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaMetodos\bin\Debug\CapaMetodos.xml
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.vbproj.AssemblyReference.cache
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.Resources.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.vbproj.GenerateResource.cache
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.dll
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.xml
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaMetodos\obj\Debug\CapaMetodos.pdb

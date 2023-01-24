@@ -1,0 +1,235 @@
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe.config
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.pdb
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.xml
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.pdb
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.xml
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll.config
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.AssemblyReference.cache
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form1.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form2.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form3.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form4.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form5.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form6.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form7.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form8.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.cache
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CoreCompileInputs.cache
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CopyComplete
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.exe
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.xml
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.pdb
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe.config
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.pdb
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.xml
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.pdb
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.xml
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll.config
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.AssemblyReference.cache
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form1.resources
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form2.resources
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form3.resources
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form4.resources
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form5.resources
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form6.resources
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form7.resources
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form8.resources
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.cache
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CoreCompileInputs.cache
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CopyComplete
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.exe
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.xml
+d:\Users\Maste\Desktop\SistemaClinicaUniversitaria (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.pdb
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe.config
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.pdb
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.xml
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.pdb
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.xml
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll.config
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.AssemblyReference.cache
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form1.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form10.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form11.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form12.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form13.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form2.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form3.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form4.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form5.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form6.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form7.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form8.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form9.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.cache
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CoreCompileInputs.cache
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CopyComplete
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.exe
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.xml
+E:\Users\rodri\Downloads\Proy1.3 (1)\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.pdb
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe.config
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.pdb
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.xml
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.pdb
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.xml
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll.config
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.AssemblyReference.cache
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form1.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form10.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form11.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form2.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form3.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form4.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form6.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form7.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form9.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.cache
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CopyComplete
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.exe
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.xml
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.pdb
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe.config
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.pdb
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.xml
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.pdb
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.xml
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll.config
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.AssemblyReference.cache
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form1.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form10.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form11.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form2.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form3.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form4.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form6.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form7.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form9.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.cache
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CoreCompileInputs.cache
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CopyComplete
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.exe
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.xml
+E:\Users\rodri\Downloads\SistemaClinicaUniversitaria_sm\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.pdb
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe.config
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.pdb
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.xml
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.pdb
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.xml
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll.config
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.AssemblyReference.cache
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form1.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form10.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form11.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form2.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form3.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form4.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form6.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form7.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form9.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.cache
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CopyComplete
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.exe
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.xml
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.pdb
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form12.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitariaCF\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form13.resources
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe.config
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.pdb
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.xml
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.pdb
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.xml
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll.config
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.AssemblyReference.cache
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form1.resources
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form10.resources
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form11.resources
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form12.resources
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form13.resources
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form2.resources
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form3.resources
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form4.resources
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form6.resources
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form7.resources
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form9.resources
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.cache
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CoreCompileInputs.cache
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CopyComplete
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.exe
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.xml
+E:\Users\rodri\Desktop\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.pdb
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe.config
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.pdb
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.xml
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.pdb
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.xml
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll.config
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.AssemblyReference.cache
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form1.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form10.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form11.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form12.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form13.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form2.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form3.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form4.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form6.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form7.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form9.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.cache
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CopyComplete
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.exe
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.xml
+C:\Users\HP\Downloads\SistemaClinicaUniversitaria_final2.0\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.pdb
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe.config
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.exe
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.pdb
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDiseño.xml
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.pdb
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.xml
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\bin\Debug\CapaDatos.dll.config
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.AssemblyReference.cache
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form1.resources
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form10.resources
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form11.resources
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form12.resources
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form13.resources
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form2.resources
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form3.resources
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form4.resources
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form6.resources
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form7.resources
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Form9.resources
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.cache
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CoreCompileInputs.cache
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.vbproj.CopyComplete
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.exe
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.xml
+E:\Users\rodri\Downloads\2\SistemaClinicaUniversitaria\CapaDiseño\obj\Debug\CapaDiseño.pdb
